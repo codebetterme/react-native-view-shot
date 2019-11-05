@@ -1,13 +1,9 @@
 # react-native-view-shot ![](https://img.shields.io/npm/v/react-native-view-shot.svg) ![](https://img.shields.io/badge/react--native-%2040+-05F561.svg)
 
-Capture a React Native view to an image.
-
-<img src="./example/docs/recursive.gif" width=300 />
-
 ## Install
 
 ```bash
-yarn add react-native-view-shot
+npm install github:codevoler/react-native-view-shot
 ```
 
 Make sure react-native-view-shot is correctly linked in XCode (might require a manual installation, refer to [React Native doc](https://facebook.github.io/react-native/docs/linking-libraries-ios.html)).
