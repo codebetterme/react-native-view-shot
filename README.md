@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-npm install github:codevoler/react-native-view-shot
+npm install github:codebetterme/react-native-view-shot
 ```
 
 Make sure react-native-view-shot is correctly linked in XCode (might require a manual installation, refer to [React Native doc](https://facebook.github.io/react-native/docs/linking-libraries-ios.html)).
